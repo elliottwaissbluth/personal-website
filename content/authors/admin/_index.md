@@ -19,6 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
+- Music Information Retrieval
 - Computational Linguistics
 - Information Retrieval
 
@@ -39,19 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:ewaissbluth@berkeley.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/elliottwaissbluth
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/elliottwaissbluth/
+- icon: podcast
+  icon_pack: fab
+  link: https://podcasts.apple.com/us/podcast/hypnothesis/id1529989400
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
