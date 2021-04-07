@@ -11,7 +11,7 @@ role: Graduate Student in Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: UC Berkeley School of Information
-  url: https://www.stanford.edu/
+  url: https://www.ischool.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -48,15 +48,15 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/elliottwaissbluth/
 - icon: podcast
-  icon_pack: fab
+  icon_pack: fas
   link: https://podcasts.apple.com/us/podcast/hypnothesis/id1529989400
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/Elliott.Waissbluth.Resume.New.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
