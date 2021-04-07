@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- description: 90%
- icon: pytorch
- icon_pack: custom
- name: PyTorch
+# - description: 90%
+#  icon: pytorch
+#  icon_pack: custom
+#  name: PyTorch
 # ---
