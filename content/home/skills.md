@@ -39,7 +39,7 @@ feature:
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 - icon: pytorch
- icon_pack: "custom"
+ icon_pack: custom
  name: PyTorch
  description: 90%
 ---
