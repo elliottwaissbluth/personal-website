@@ -27,7 +27,7 @@ education:
   courses:
   - course: MS Information Management and Systems
     institution: UC Berkeley
-    year: exp. 2021
+    year: 2022
   - course: BS Electrical Engineering
     institution: The Ohio State University
     year: 2015
